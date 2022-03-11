@@ -1,0 +1,7 @@
+com\epf\rentmanager\model\Reservation.class
+EPF\Main.class
+com\epf\rentmanager\exception\DaoException.class
+com\epf\rentmanager\exception\ServiceException.class
+com\epf\rentmanager\dao\ReservationDao.class
+com\epf\rentmanager\persistence\FillDatabase.class
+com\epf\rentmanager\model\Client.class
